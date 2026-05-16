@@ -116,7 +116,7 @@ HUBROK PHARMACY & STORES LTD
 Abuja, Nigeria  
 
 Email: hubrokpharmacy.stores@gmail.com 
-GitHub: https://github.com/pharmaloop-ng
+GitHub: https://github.com/pharmaloop-ng/pharmaloop
 
 ---
 
